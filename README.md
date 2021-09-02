@@ -1,0 +1,2 @@
+# libenc
+Simplified Encryption Library
